@@ -21,7 +21,7 @@ function Header(){
 
     return(
         <>
-        <h1>Breaking Bed Characters Listing</h1>
+        <h1>Breaking Bad Characters Listing</h1>
         <Card character={Character}/>
         </>
     )
